@@ -1,0 +1,15 @@
+npm install react-router-dom (rotas)
+
+npm install react-router (rotas)
+
+npm install react-bootstrap bootstrap
+
+npm install formik (trabalhar com formulário)
+
+npm install yup (fazer validações)
+
+npm install axios (responsável por lidar com requisições api)
+
+npm install history@^4.10.1 (pra não ficar recarregando a tela toda hora)
+
+npm install normalize.css (retirar todo estilo default)
