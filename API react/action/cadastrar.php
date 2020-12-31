@@ -14,6 +14,6 @@
         echo json_encode(array("msg" => "Método POST Efetuado"));
 
     } else {
-        echo "Falha!";
+        echo "Falha!!!";
     }
 ?>
